@@ -1,0 +1,91 @@
+result,True
+explain,You need to enable JavaScript to run this app.
+location,[{'Header 1': '#TITLE#'}]
+text,['You need to enable JavaScript to run this app.']
+result,True
+explain,"You will defend, indemnify, and hold harmless Ondo, its affiliates, and its and its affiliates' respective stockholders, members, directors, officers, managers, employees, attorneys, agents, representatives, suppliers, and contractors (collectively, "" Indemnified Parties "") from any claim, demand, lawsuit, action, proceeding, investigation, liability, damage, loss, cost or expense, including without limitation reasonable attorneys' fees, arising out of or relating to (a) your use of, or
+In connection with your use of the Services, you are required to pay all fees necessary for interacting with the Ethereum or any other applicable blockchain, including transaction costs, as well as any other fees reflected on the Site at the time of your use of the Services. Where relevant, although we attempt to provide accurate fee information, this information reflects our estimates of fees, which may vary from the actual fees paid to use the Services and interact with the Ethereum or any
+10.4 You understand that the Ethereum blockchain and other blockchain-based networks remain under development, which creates technological and security risks when using the Services in addition to uncertainty relating to Digital Assets and transactions therein. You acknowledge that the cost of transacting on the Ethereum blockchain and other blockchain-based networks may be variable and may increase at any time causing impact to any activities taking place on the Ethereum blockchain or other
+3.  Convert Tool Fees 
+ 
+ You may be required to pay certain fees (for example, gas fees) in order to instruct the execution of smart contracts in connection with the Convert Tool and to otherwise use the Convert Tool. 
+ 
+ 
+ Legal Privacy Policy 
+ 
+ 
+ 
+ Light 
+ 
+ 
+ Ondo Finance Docs 
+ 
+ 
+ {""props"":{""pageProps"":{}},""page"":""/legal/terms-of-service"",""query"":{},""buildId"":""uAUKLtyoi_4iOoGCKDUBY"",""nextExport"":true,""autoExport"":true,""isFallback"":false,""scriptLoader"":[]}"
+location,"[{'Header 3': '11. Indemnification'}, {'Header 3': '3. Fees and Price Estimates'}, {'Header 3': '10. Assumption of Risks'}, {'Header 4': '3. Convert Tool Fees'}]"
+text,"['You will defend, indemnify, and hold harmless Ondo, its affiliates, and its and its affiliates\' respective stockholders, members, directors, officers, managers, employees, attorneys, agents, representatives, suppliers, and contractors (collectively, "" Indemnified Parties "") from any claim, demand, lawsuit, action, proceeding, investigation, liability, damage, loss, cost or expense, including without limitation reasonable attorneys\' fees, arising out of or relating to (a) your use of, or', 'In connection with your use of the Services, you are required to pay all fees necessary for interacting with the Ethereum or any other applicable blockchain, including transaction costs, as well as any other fees reflected on the Site at the time of your use of the Services. Where relevant, although we attempt to provide accurate fee information, this information reflects our estimates of fees, which may vary from the actual fees paid to use the Services and interact with the Ethereum or any', '10.4 You understand that the Ethereum blockchain and other blockchain-based networks remain under development, which creates technological and security risks when using the Services in addition to uncertainty relating to Digital Assets and transactions therein. You acknowledge that the cost of transacting on the Ethereum blockchain and other blockchain-based networks may be variable and may increase at any time causing impact to any activities taking place on the Ethereum blockchain or other', '3.  Convert Tool Fees \n \n You may be required to pay certain fees (for example, gas fees) in order to instruct the execution of smart contracts in connection with the Convert Tool and to otherwise use the Convert Tool. \n \n \n Legal Privacy Policy \n \n \n \n Light \n \n \n Ondo Finance Docs \n \n \n {""props"":{""pageProps"":{}},""page"":""/legal/terms-of-service"",""query"":{},""buildId"":""uAUKLtyoi_4iOoGCKDUBY"",""nextExport"":true,""autoExport"":true,""isFallback"":false,""scriptLoader"":[]}']"
+result,True
+explain,"[background-image:conic-gradient(from_-90deg_at_50%_50%,_var(--tw-gradient-stops)_0deg,_var(--tw-gradient-stops)_90deg,_var(--tw-gradient-stops)_280deg)] dark:from-light-4/6\""}]}]}]}],\""children\"":[\""$\"",\""p\"",null,{\""className\"":\""max-w-3xl w-full mx-auto decoration-primary/6 page-api-block:ml-0\"",\""children\"":[[[\""$\"",\""$30\"",\""0\"",{\""children\"":\""6.1. Fee Structure: Mountain Protocol provides transparency in its fee structure by ensuring that all fees, including those charged by the company
+6. Fees and Charges 
+ 
+ /$ $ 6.1. Fee Structure: Mountain Protocol provides transparency in its fee structure by ensuring that all fees, including those charged by the company and any applicable partners, are netted from the yield quoted to users. By using our services, you acknowledge and agree that the yield displayed to you already accounts for these fees, providing a clear understanding of the net yield you can expect.
+You will not be entitled to receive any interest or other fees on any USDM held in your account other than the rewards as set out in this paragraph 5.2., even if we receive interest or other amounts from any third parties on the USDM Reserves held. You acknowledge and agree that interest or other amounts earned in respect of the USDM Reserves that do not form part of the rewards as set out in this paragraph 5.2 is paid to Mountain Protocol as a management fee and no USDM holder has an
+be entitled to receive any interest or other fees on any USDM held in your account other than the rewards as set out in this paragraph 5.2., even if we receive interest or other amounts from any third parties on the USDM Reserves held. You acknowledge and agree that interest or other amounts earned in respect of the USDM Reserves that do not form part of the rewards as set out in this paragraph 5.2 is paid to Mountain Protocol as a management fee and no USDM holder has an entitlement to such"
+location,"[{'Header 2': '23. Contact Information'}, {'Header 2': '6. Fees and Charges'}, {'Header 2': '5. Services'}, {'Header 2': '23. Contact Information'}]"
+text,"['[background-image:conic-gradient(from_-90deg_at_50%_50%,_var(--tw-gradient-stops)_0deg,_var(--tw-gradient-stops)_90deg,_var(--tw-gradient-stops)_280deg)] dark:from-light-4/6\\""}]}]}]}],\\""children\\"":[\\""$\\"",\\""p\\"",null,{\\""className\\"":\\""max-w-3xl w-full mx-auto decoration-primary/6 page-api-block:ml-0\\"",\\""children\\"":[[[\\""$\\"",\\""$30\\"",\\""0\\"",{\\""children\\"":\\""6.1. Fee Structure: Mountain Protocol provides transparency in its fee structure by ensuring that all fees, including those charged by the company', '6. Fees and Charges \n \n /$ $ 6.1. Fee Structure: Mountain Protocol provides transparency in its fee structure by ensuring that all fees, including those charged by the company and any applicable partners, are netted from the yield quoted to users. By using our services, you acknowledge and agree that the yield displayed to you already accounts for these fees, providing a clear understanding of the net yield you can expect.', 'You will not be entitled to receive any interest or other fees on any USDM held in your account other than the rewards as set out in this paragraph 5.2., even if we receive interest or other amounts from any third parties on the USDM Reserves held. You acknowledge and agree that interest or other amounts earned in respect of the USDM Reserves that do not form part of the rewards as set out in this paragraph 5.2 is paid to Mountain Protocol as a management fee and no USDM holder has an', 'be entitled to receive any interest or other fees on any USDM held in your account other than the rewards as set out in this paragraph 5.2., even if we receive interest or other amounts from any third parties on the USDM Reserves held. You acknowledge and agree that interest or other amounts earned in respect of the USDM Reserves that do not form part of the rewards as set out in this paragraph 5.2 is paid to Mountain Protocol as a management fee and no USDM holder has an entitlement to such']"
+result,True
+explain,"Â© Hashnote Â 2022-2024 
+ 
+ Terms and Conditions Privacy Policy Legal Disclosures Cookie Preference
+We may, without prior notice or warning of any kind, restrict or terminate the access of any and all users to the Site if we reasonably conclude that such restriction or termination is necessary to prevent, or prevent the further spread, of a virus, security breach or system malfunction.
+Content or other materials contained on the Site should be construed or relied upon as investment, legal, accounting, tax or other professional advice or in connection with any offer or sale of securities. Any transactions listed on the Site are included as representative transactions and are not necessarily reflective of overall performance. â
+revise any information on the Site, whether as a result of new information, future developments or otherwise. Opinions and any other Contents at the Site are subject to change without notice. Hashnote is not utilizing the Site to provide investment or other advice, and no information or material at the Site is to be deemed a recommendation to buy or sell any securities or is to be relied upon for the purpose of making or communicating investment or other decisions. In addition, no information,"
+location,"[{'Header 4': 'â\x80\x8dArbitration'}, {'Header 4': 'â\x80\x8dSite Security'}, {'Header 4': 'â\x80\x8dNo Offers or Reliance'}, {'Header 4': 'â\x80\x8dNo Offers or Reliance'}]"
+text,"['Â© Hashnote Â\xa02022-2024 \n \n Terms and Conditions Privacy Policy Legal Disclosures Cookie Preference', 'We may, without prior notice or warning of any kind, restrict or terminate the access of any and all users to the Site if we reasonably conclude that such restriction or termination is necessary to prevent, or prevent the further spread, of a virus, security breach or system malfunction.', 'Content or other materials contained on the Site should be construed or relied upon as investment, legal, accounting, tax or other professional advice or in connection with any offer or sale of securities. Any transactions listed on the Site are included as representative transactions and are not necessarily reflective of overall performance. â\x80\x8d', 'revise any information on the Site, whether as a result of new information, future developments or otherwise. Opinions and any other Contents at the Site are subject to change without notice. Hashnote is not utilizing the Site to provide investment or other advice, and no information or material at the Site is to be deemed a recommendation to buy or sell any securities or is to be relied upon for the purpose of making or communicating investment or other decisions. In addition, no information,']"
+result,False
+explain,
+location,[]
+text,[]
+result,True
+explain,"Contact 
+ Book a Call E-mail Twitter Telegram LinkedIn YouTube 
+ 
+ Â© 2024 Aktionariat AG 
+ All rights reserved. 
+ 
+ 
+ 
+.text-gradient-1
+{
+  -webkit-box-decoration-break:
+	clone;
+}
+.text-gradient-2
+{
+  -webkit-box-decoration-break:
+	clone;
+}
+.text-gradient-3
+{
+  -webkit-box-decoration-break:
+	clone;
+}
+Legal & privacy 
+ Terms of Service Privacy Policy Impressum
+4 Rights & Obligations of User
+changes to the Services, i.e., changes significantly altering the nature and scope of the Services provided to the User according to the Agreement, the Company will notify the Users that are directly affected by such changes, and where reasonably possible."
+location,"[{'Header 3': 'Contact'}, {'Header 3': 'Legal & privacy'}, {'Header 4': '4 Rights & Obligations of User'}, {'Header 4': '3 Rights & Obligations of Company'}]"
+text,"['Contact \n Book a Call E-mail Twitter Telegram LinkedIn YouTube \n \n Â© 2024 Aktionariat AG \n All rights reserved. \n \n \n \n.text-gradient-1\n{\n  -webkit-box-decoration-break:\n\tclone;\n}\n.text-gradient-2\n{\n  -webkit-box-decoration-break:\n\tclone;\n}\n.text-gradient-3\n{\n  -webkit-box-decoration-break:\n\tclone;\n}', 'Legal & privacy \n Terms of Service Privacy Policy Impressum', '4 Rights & Obligations of User', 'changes to the Services, i.e., changes significantly altering the nature and scope of the Services provided to the User according to the Agreement, the Company will notify the Users that are directly affected by such changes, and where reasonably possible.']"
+result,True
+explain,"mining, minting or issuing of new tokens, airdrops, the burning of tokens and blockchain forks). You understand that Ethereum and other blockchain technologies and associated Digital Assets, currencies or tokens are highly volatile due to many factors including but not limited to adoption, speculation, technology and security risks. You also acknowledge that the cost of transacting on such technologies is variable and may increase at any time causing impact to any activities taking place on the
+We do not charge any fees for use of Services or the Interface. We do not provide any services to users or deliver, hold, and/or receive payment for cryptoassets.  However, note that in connection with your use of the Services, you agree to bear all costs necessary to conduct a transaction on the blockchain, such as gas fees. We attempt to provide accurate cost information, but this information is highly volatile and can change quickly without Users necessarily being aware of these changes.
+Copyright ©   2024    Angle Labs Inc.    All rights reserved. 
+ Terms | Privacy
+Are aware of related risks By utilizing the Services or interacting with the Interface in any way, you represent that you perfectly understand the inherent risks associated with smart contracts and cryptographic system (included but not limited to volatility of cryptocurrencies, risk of regulatory actions, risks of technical issues) as disclosed thereafter and warrant that you have a very good understanding of the usage of cryptographic assets. 
+ Shall not do any trolling activities:"
+location,"[{'Header 4': ""IV. User's Representations & Warranties and Acknowledgements""}, {'Header 4': 'III. Services'}, {'Header 4': 'VIII. General Provisions'}, {'Header 4': ""IV. User's Representations & Warranties and Acknowledgements""}]"
+text,"['mining, minting or issuing of new tokens, airdrops, the burning of tokens and blockchain forks). You understand that Ethereum and other blockchain technologies and associated Digital Assets, currencies or tokens are highly volatile due to many factors including but not limited to adoption, speculation, technology and security risks. You also acknowledge that the cost of transacting on such technologies is variable and may increase at any time causing impact to any activities taking place on the', 'We do not charge any fees for use of Services or the Interface. We do not provide any services to users or deliver, hold, and/or receive payment for cryptoassets.  However, note that in connection with your use of the Services, you agree to bear all costs necessary to conduct a transaction on the blockchain, such as gas fees. We attempt to provide accurate cost information, but this information is highly volatile and can change quickly without Users necessarily being aware of these changes.', 'Copyright ©   2024    Angle Labs Inc.    All rights reserved. \n Terms | Privacy', 'Are aware of related risks By utilizing the Services or interacting with the Interface in any way, you represent that you perfectly understand the inherent risks associated with smart contracts and cryptographic system (included but not limited to volatility of cryptocurrencies, risk of regulatory actions, risks of technical issues) as disclosed thereafter and warrant that you have a very good understanding of the usage of cryptographic assets. \n Shall not do any trolling activities:']"
+result,False
+explain,
+location,[]
+text,[]
